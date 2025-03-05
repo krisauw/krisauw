@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Hien Bui (Emi) 👋
 
-<!--
-**krisauw/krisauw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌟 About Me
+🎓 Master's Student in Data Science at Drew University  
+💼 Experienced in Project Management, Data Analysis, and 3D Art  
+🔍 Passionate about Machine Learning & Data Visualization  
 
-Here are some ideas to get you started:
+## 🚀 My Resume
+Check out my resume [here](https://krisauw.github.io/)!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact Me
+📧 Email: hien.bui0393@gmail.com  
+💻 [GitHub](https://github.com/krisauw)  
+🔗 [LinkedIn](https://www.linkedin.com/in/hien-bui-emi-6273b010a/)  
