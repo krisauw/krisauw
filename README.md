@@ -6,7 +6,11 @@
 🔍 Passionate about Machine Learning & Data Visualization  
 
 ## 🚀 My Resume
-Check out my resume [here](https://krisauw.github.io/)!
+[Check out my resume](https://krisauw.github.io/)
+
+## 📂 My Projects
+[Movie Recommender](https://github.com/krisauw/luxury_car_price)
+[Luxury Car Price](https://github.com/krisauw/luxury_car_price)
 
 ## 📫 Contact Me
 📧 Email: hien.bui0393@gmail.com  
