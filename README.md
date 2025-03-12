@@ -9,7 +9,7 @@
 [Check out my resume](https://krisauw.github.io/)
 
 ## 📂 My Projects
-[Movie Recommender](https://github.com/krisauw/luxury_car_price)
+[Movie Recommender](https://github.com/krisauw/movie_recommender)
 [Luxury Car Price](https://github.com/krisauw/luxury_car_price)
 
 ## 📫 Contact Me
