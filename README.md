@@ -11,6 +11,7 @@
 ## 📂 My Projects
 [Movie Recommender](https://github.com/krisauw/movie_recommender)
 [Luxury Car Price](https://github.com/krisauw/luxury_car_price)
+[Book Ratings](https://github.com/krisauw/book_ratings)
 
 ## 📫 Contact Me
 📧 Email: hien.bui0393@gmail.com  
