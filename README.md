@@ -10,6 +10,7 @@
 
 ## 📂 My Projects
 [Movie Recommender](https://github.com/krisauw/movie_recommender)
+[Sentiment Analysis](https://github.com/krisauw/sentiment_analysis_mashle)
 [Luxury Car Price](https://github.com/krisauw/luxury_car_price)
 [Book Ratings](https://github.com/krisauw/book_ratings)
 
