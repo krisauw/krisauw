@@ -9,6 +9,7 @@
 [Check out my resume](https://krisauw.github.io/)
 
 ## 📂 My Projects
+[EVs_in_WA](https://github.com/krisauw/EVs_in_WA/tree/main)
 [Movie Recommender](https://github.com/krisauw/movie_recommender)
 [Sentiment Analysis](https://github.com/krisauw/sentiment_analysis_mashle)
 [Luxury Car Price](https://github.com/krisauw/luxury_car_price)
