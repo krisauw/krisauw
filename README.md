@@ -5,17 +5,10 @@
 💼 Experienced in Project Management, Data Analysis, and 3D Art  
 🔍 Passionate about Machine Learning & Data Visualization  
 
-## 🚀 My Resume
-[Check out my resume](https://krisauw.github.io/)
-
-## 📂 My Projects
-[EVs_in_WA](https://github.com/krisauw/EVs_in_WA/tree/main)
-[Movie Recommender](https://github.com/krisauw/movie_recommender)
-[Sentiment Analysis](https://github.com/krisauw/sentiment_analysis_mashle)
-[Luxury Car Price](https://github.com/krisauw/luxury_car_price)
-[Book Ratings](https://github.com/krisauw/book_ratings)
+## 🚀 My Resume and Projects
+[Link](https://krisauw.github.io/](https://krisauw.github.io/website/)
 
 ## 📫 Contact Me
 📧 Email: hien.bui0393@gmail.com  
-💻 [GitHub](https://github.com/krisauw)  
+💻 [Website](https://github.com/krisauw](https://krisauw.github.io/website/)  
 🔗 [LinkedIn](https://www.linkedin.com/in/hien-bui-emi-6273b010a/)  
