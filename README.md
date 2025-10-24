@@ -8,7 +8,7 @@ Tech: Python (pandas/polars, scikit learn, PyTorch, OpenCV), SQL, R, Plotly, Tab
 Interests: Data storytelling, recommender systems, computer vision, and launching small tools that make decisions faster.
 
 ## 🚀 My Resume and Projects
-[Link](https://krisauw.github.io/](https://krisauw.github.io/website/)
+[Link](https://krisauw.github.io/website/)
 
 ## 📫 Contact Me
 📧 Email: hien.bui0393@gmail.com  
